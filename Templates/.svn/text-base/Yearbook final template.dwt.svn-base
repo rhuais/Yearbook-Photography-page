@@ -33,21 +33,19 @@
 	width:430px;
 	height:94px;
 	z-index:3;
-	color: #FFF;
-	background-color: #000033;
 }
 #apDiv4 {
 	position:absolute;
-	left:305px;
-	top:350px;
+	left:303px;
+	top:331px;
 	width:1129px;
 	height:826px;
 	z-index:4;
 }
 #apDiv5 {
 	position:absolute;
-	left:75px;
-	top:1129px;
+	left:69px;
+	top:1184px;
 	width:377px;
 	height:115px;
 	z-index:5;
@@ -85,7 +83,7 @@
 	z-index:9;
 	text-align: center;
 	background-color: #000033;
-	color: #E3E3E3;
+	color: #FFF;
 }
 #apDiv10 {
 	position:absolute;
@@ -110,7 +108,7 @@
 	color: #FFF;
 }
 body {
-	background-image: url(../background.jpg);
+	background-image: url(../docs/other%20pics/background.jpg);
 }
 </style>
 </head>
@@ -123,9 +121,9 @@ body {
 <div id="apDiv4"></div>
 <!-- TemplateEndEditable -->
 <div id="apDiv5">
-  <h2>Contact </h2>
-  <h2>Mr. Leung: bleung@ais.edu.hk</h2>
-  <h2>Ruby Kim: 808539@ais.edu.hk</h2>
+  <h3>Contact </h3>
+  <p>Mr. Leung: bleung@ais.edu.hk</p>
+  <p>Ruby Kim: 808539@ais.edu.hk</p>
 </div>
 <div id="apDiv9">
   <h2>Assignments </h2>
@@ -136,6 +134,6 @@ body {
 <div id="apDiv11">
   <h2><strong> Calender </strong></h2>
 </div>
-<img src="../Images/final_logo.gif" width="250" height="152" />
+<img src="../docs/other pics/yearbooklogo.gif" width="227" height="143" />
 </body>
 </html>
