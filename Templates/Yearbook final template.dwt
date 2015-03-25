@@ -38,9 +38,9 @@
 }
 #apDiv4 {
 	position:absolute;
-	left:52px;
-	top:350px;
-	width:1382px;
+	left:255px;
+	top:353px;
+	width:1126px;
 	height:826px;
 	z-index:4;
 }
